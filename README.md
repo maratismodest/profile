@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 I have a pet-project - Classified of Innopolis City.
-result: https://innoads.ru
-frontend: Next.js, TypeScript, SCSS modules, React Hook Form, custom UI (https://github.com/maratismodest/innoads-frontend)
-backend: Node.js (+ TypeScript), Postgres
-(https://github.com/maratismodest/innoads-backend)
+/result: https://innoads.ru
+/frontend: Next.js, TypeScript, SCSS modules, React Hook Form, custom UI (https://github.com/maratismodest/innoads-frontend)
+/backend: Node.js (+ TypeScript), Postgres (https://github.com/maratismodest/innoads-backend)
 
 I love to share experince and being a thankful student.
 
