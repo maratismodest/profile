@@ -10,3 +10,4 @@ PROFESSIONAL SKILLS:
 — Graphic editors: Figma\
 — Other: Git, BEM\
 — Scrum, Jira, YouTrack\
+Feel free to text me via Telegram: https://t.me/maratfaizer
