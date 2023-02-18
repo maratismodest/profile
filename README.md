@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**maratismodest/maratismodest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a pet-project - Classified of Innopolis City.
+result: https://innoads.ru
+frontend: Next.js, TypeScript, SCSS modules, React Hook Form, custom UI (https://github.com/maratismodest/innoads-frontend)
+backend: Node.js (+ TypeScript), Postgres
+(https://github.com/maratismodest/innoads-backend)
 
-Here are some ideas to get you started:
+I love to share experince and being a thankful student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PROFESSIONAL SKILLS:
+— React, Redux, Graphql, Next.js, Node.js (Express.js, Nest.js)
+— JavaScript + TypeScript
+— E2E, unit testing (react-testing-library)
+— HTML5, CSS3
+— Preprocessors: SCSS/SASS/LESS
+— Cross-browser development
+— Graphic editors: Figma
+— Other: Git, BEM
+— Scrum, Jira, YouTrack
