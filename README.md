@@ -12,10 +12,9 @@
 I love to share experience and being a thankful student.
 
 ### 💼 Technical Skills:
-— React, Redux, Graphql, Next.js, Node.js (Express.js, Nest.js)
+— React, Redux, Next.js, Node.js (Express.js, Nest.js)
 — JavaScript + TypeScript\
 — E2E, unit testing (react-testing-library)\
-— HTML5, CSS3\
 — Preprocessors: SCSS/SASS/LESS,TailwindCSS\
 — Cross-browser development\
 — Graphic editors: Figma\
