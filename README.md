@@ -1,4 +1,4 @@
-![my banner](http://url/to/img.png](https://user-images.githubusercontent.com/77800640/221012009-6a5c51f7-b39a-4926-9ea2-d769f44ae908.jpeg)
+![my banner](https://user-images.githubusercontent.com/77800640/221012009-6a5c51f7-b39a-4926-9ea2-d769f44ae908.jpeg)
 
 I love to share experience and being a thankful student.
 
