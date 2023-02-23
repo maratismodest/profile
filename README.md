@@ -23,7 +23,5 @@ PROFESSIONAL SKILLS:
 — Other: Git, BEM\
 — Scrum, Jira, YouTrack
 
-</br>
-
 ### 🤝 Connect with me:
 Feel free to text me via Telegram: https://t.me/maratfaizer
