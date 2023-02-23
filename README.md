@@ -13,7 +13,7 @@
 I love to share experience and being a thankful student.
 
 PROFESSIONAL SKILLS:
-— React, Redux, Graphql, Next.js, Node.js (Express.js, Nest.js)\
+— React, Redux, Graphql, Next.js, Node.js (Express.js, Nest.js)</br>
 — JavaScript + TypeScript\
 — E2E, unit testing (react-testing-library)\
 — HTML5, CSS3\
