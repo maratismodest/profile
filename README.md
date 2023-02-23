@@ -16,12 +16,11 @@ I love to share experience and being a thankful student.
 — JavaScript + TypeScript\
 — E2E, unit testing (react-testing-library)\
 — HTML5, CSS3\
-— Preprocessors: SCSS/SASS/LESS\
+— Preprocessors: SCSS/SASS/LESS,TailwindCSS\
 — Cross-browser development\
 — Graphic editors: Figma\
 — Other: Git, BEM\
 — Scrum, Jira, YouTrack\
-- Tailwind
 
 ### 🤝 Connect with me:
 Feel free to text me via Telegram: https://t.me/maratfaizer
