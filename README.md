@@ -23,5 +23,8 @@ PROFESSIONAL SKILLS:
 — Cross-browser development\
 — Graphic editors: Figma\
 — Other: Git, BEM\
-— Scrum, Jira, YouTrack\
+— Scrum, Jira, YouTrack
+
+</br>
+### 🤝 Connect with me:
 Feel free to text me via Telegram: https://t.me/maratfaizer
