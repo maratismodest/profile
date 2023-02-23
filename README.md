@@ -20,7 +20,8 @@ I love to share experience and being a thankful student.
 — Cross-browser development\
 — Graphic editors: Figma\
 — Other: Git, BEM\
-— Scrum, Jira, YouTrack
+— Scrum, Jira, YouTrack\
+- Tailwind
 
 ### 🤝 Connect with me:
 Feel free to text me via Telegram: https://t.me/maratfaizer
