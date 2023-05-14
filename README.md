@@ -22,7 +22,7 @@ I love to share experience and being a thankful student.
 — Scrum, Jira, YouTrack
 
 ### Portfolio:
-![banner](innoads.jpg)
+![banner](innoads-preview.jpg)
 Classified: https://innoads.ru</br>
 frontend: [https://github.com/innoads-frontend](https://github.com/maratismodest/innoads-frontend)</br>
 backend: [https://github.com/innoads-backend](https://github.com/maratismodest/innoads-backend)
