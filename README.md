@@ -19,9 +19,10 @@ I love to share experience and being a thankful student.
 — Cross-browser development\
 — Graphic editors: Figma\
 — Other: Git, BEM\
-— Scrum, Jira, YouTrack\
+— Scrum, Jira, YouTrack
 
 ### Portfolio:
+![banner](innoads.jpg)
 Classified: https://innoads.ru</br>
 frontend: [https://github.com/innoads-frontend](https://github.com/maratismodest/innoads-frontend)</br>
 backend: [https://github.com/innoads-backend](https://github.com/maratismodest/innoads-backend)
